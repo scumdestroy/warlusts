@@ -1,0 +1,12 @@
+at
+on
+by
+id
+pk
+fk
+uid
+uuid
+guid
+ref
+obj
+objref
