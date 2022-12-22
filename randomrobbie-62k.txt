@@ -1685,7 +1685,7 @@ _
 2019/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 2019/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 2019/wp-includes/wlwmanifest.xml
-2019/wp-login.php
+/2019/wp-login.php
 202001151340450f154008-.pdf
 2020-04-02-7.log
 20200617_fraesplatte.zip
@@ -1696,7 +1696,7 @@ _
 20-20.log.2
 2020/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 2020/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-2020/wp-login.php
+/2020/wp-login.php
 20210111.zip
 20-21.log
 20-21.log.1
@@ -7475,7 +7475,7 @@ admin.cgi
 admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php
 admin.com/
 Admin/Common/HelpLinks.xml
-admin/config.php
+/admin/config.php
 admin/config.php
 Admin.csv
 admin/db/index.php
@@ -11202,7 +11202,7 @@ blog.php
 blog/phpmyadmin/
 blog.sql
 blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-blog/wp-admin/install.php
+/blog/wp-admin/install.php
 blog/wp-admin/setup-config.php
 blog/wp-content/backup-db/
 blog/wp-content/backups/
@@ -15793,7 +15793,7 @@ database.yml
 data_bk2.json
 datacenter/downloadApp/showDownload.do
 data/configdb/mongod.conf
-//../../data/config/microsrv.cfg
+///../../data/config/microsrv.cfg
 DataCtrl.php
 data_dendrogram_full.json
 data/.env
@@ -34165,7 +34165,7 @@ new_used
 newuserscleanup.php
 new/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 newwin
-new/wp-admin/install.php
+/new/wp-admin/install.php
 newyorkcityv2.zip
 new.zip
 newz.zip
@@ -34821,7 +34821,7 @@ oldphp.ini
 oldsanta/.env
 Old_site_files.zip
 OLD site/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-oldsite/wp-admin/install.php
+/oldsite/wp-admin/install.php
 .oldsnippets
 old.sql
 .oldstatic
@@ -34829,14 +34829,14 @@ old/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 old_ventas.php
 oldvillage.zip
 OLD_WEBSITE.zip
-old/wp-admin/install.php
+/old/wp-admin/install.php
 old/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
 old/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 old/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 old/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 old/wp-content/plugins/wp-file-manager/readme.txt
 old/wp-content/themes/AdvanceImage5/functions.php
-old/wp-login.php
+/old/wp-login.php
 old.zip
 olelist.php
 olesistemas/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -36889,7 +36889,7 @@ phpMyAbmin/index.php
 phpmyadm1n/index.php
 phpMyadmi/index.php
 .phpmyadmin/
-phpmyadmin/
+/phpmyadmin/
 _phpmyadmin
 _phpmyadmin/
 php-myadmin/
@@ -50890,7 +50890,7 @@ test/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdi
 test/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 test/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 test/wp-includes/wlwmanifest.xml
-test/wp-login.php
+/test/wp-login.php
 test/wp-login.php
 test.xml
 testxyz.php
@@ -53557,7 +53557,7 @@ wordpress-5.6.2.zip
 wordpress-5.6.zip
 wordpress.sql
 wordpress/wp-admin/
-wordpress/wp-admin/install.php
+/wordpress/wp-admin/install.php
 wordpress/wp-admin/setup-config.php
 wordpress/wp-content/bad397/
 wordpress/wp-content/plugins/
@@ -54314,9 +54314,9 @@ wowonder.zip
 wo.zip
 wp0tf6jg.php
 wp1/wp-includes/wlwmanifest.xml
-wp1/wp-login.php
+/wp1/wp-login.php
 wp2/wp-includes/wlwmanifest.xml
-wp2/wp-login.php
+/wp2/wp-login.php
 WP-750-005.pdf
 WP-750-010.pdf
 wp-activate.php
@@ -54371,7 +54371,7 @@ wp-admin/admin-post.php?yp_remote_get=2
 wp-admin/admin-post.php?yp_remote_get=3
 wp-admin/admin-post.php?yp_remote_get=test
 wp-admin/.env
-/wp-admin/install.php
+//wp-admin/install.php
 wp-admin/plugin-install.php?tab=upload
 wp-admin/post-new.php
 wp-admin/setup-config.php
@@ -55092,7 +55092,7 @@ wp-content/plugins/clever-mega-menu/assets/vendor/font-awesome/fonts/fontawesome
 wp-content/plugins/clever-mega-menu/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff
 wp-content/plugins/clever-mega-menu/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2
 wp-content/plugins/clickdesk-live-support-chat/clickdesk.php
-wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/cloudsafe365-for-wp/admin/editor/cs365_edit.php
 wp-content/plugins/cms-pack/timthumb.php
@@ -55593,7 +55593,7 @@ wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.php
 wp-content/plugins/dzs-videogallery/admin/playlistseditor/popup.php
 wp-content/plugins/dzs-videogallery/admin/tagseditor/popup.php
 wp-content/plugins/dzs-videogallery/ajax.php
-wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/dzs-videogallery/deploy/designer/preview.php
 wp-content/plugins/dzs-videogallery/img.php
@@ -56518,7 +56518,7 @@ wp-content/plugins/iwant-one-ihave-one/updateAJAX.php
 wp-content/plugins/iwp-client/clipboard.min.js
 wp-content/plugins/iwp-client/readme.txt
 wp-content/plugins/jannes-mannes-social-media-auto-publisher/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/jetpack/css/jetpack.css
 wp-content/plugins/jetpack/_inc/build/photon/photon.min.js
@@ -57020,7 +57020,7 @@ wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
 wp-content/plugins/mm-forms-community/includes/edit_details.php
 wp-content/plugins/mm-forms/includes/doajaxfileupload.php
 wp-content/plugins/mm-plugin/inc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/mobilechief-mobile-site-creator/lib/jquery-validate/demo/captcha/index.php/"/><script>alert("QUALYS_XSS");</script>
 wp-content/plugins/modal-window/public/css/style.css
@@ -57258,7 +57258,7 @@ wp-content/plugins/pretty-link/classes/views/shared/table-nav.php
 wp-content/plugins/pretty-link/css/menu-styles.css
 wp-content/plugins/pretty-link/pretty-bar.php
 wp-content/plugins/pretty-link/prli-bookmarklet.php
-wp-content/plugins/prh-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/prh-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/product-input-fields-for-woocommerce/readme.txt
 wp-content/plugins/product-lister-walmart/marketplaces/walmart/lib/walmart-signature/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -57357,7 +57357,7 @@ wp-content/plugins/reading-progress-bar/public/css/rp-public.css
 wp-content/plugins/reading-progress-bar/public/js/rp-public.js
 wp-content/plugins/real3d-flipbook/includes/flipbooks.php
 wp-content/plugins/real3d-flipbook/includes/process.php
-wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/plugins/really-easy-slider/inc/thumb.php
 wp-content/plugins/really-simple-guest-post/simple-guest-post-submit.php
@@ -59839,7 +59839,7 @@ wp-content/uploads/2017/10/zgepd_oddsd.php
 wp-content/uploads/2017/11/zgepd_oddsd.php
 wp-content/uploads/2017/12/zgepd_oddsd.php
 wp-content/uploads/2018/
-wp-content/uploads/2018/01/abc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/uploads/2018/01/abc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/uploads/2018/01/abc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-content/uploads/2018/01/Raiz0__cjadm.php
 wp-content/uploads/2018/08/seo_script.php
@@ -60037,7 +60037,7 @@ wp-trackback.php
 wpull-1.2.3.zip
 wp_usermeta-03-04-19-ado.sql
 wp_users-03-04-19-ado.sql
-wp/wp-admin/install.php
+/wp/wp-admin/install.php
 wp/wp-admin/setup-config.php
 wp/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -60048,7 +60048,7 @@ wp/wp-content/plugins/wp-file-manager/readme.txt
 wp/wp-content/themes/AdvanceImage5/functions.php
 wp/wp-content/themes/twentyfifteen/content.php
 wp/wp-includes/wlwmanifest.xml
-wp/wp-login.php
+/wp/wp-login.php
 wp/wp-login.php
 wp-xmless.php
 wp-xmlmap.php

