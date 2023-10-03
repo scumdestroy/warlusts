@@ -83,10 +83,10 @@ $USER
 -9223372036854775808/-1
 -Infinity
 .
+
 /
-//
-//*
-/dev/null; touch /tmp/blns.fail ; echo
+/*
+dev/null; touch /tmp/blns.fail ; echo
 0
 0,,0
 0,0,0
@@ -503,4 +503,57 @@ eval("while(1);")
 ١٢٣
 ⅛⅜⅝⅞
 ﻿
-１２３
+１２３' or 1=1]%00
+!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+' || 1==1 //
+%0als
+;ls
+%68%61%63%6b%65%72%22%2e%73%79%73%74%65%6d%28%27%75%6e%61%6d%65%20%2d%61%27%29%3b%23
+%69%64%29%3b%7d%73%79%73%74%65%6d%28%27%75%6e%61%6d%65%20%2d%61%27%29%3b%23
+system('uname%20-a')&pattern=/lamer/e&base=Hello lamer
+hacker'.system('uname -a').'
+%26%26ls
+@
+*
+?
+'
+:
++
+}
+{
+]
+[
+=
+*doctor*
+*checkout*
+http%3A%2F%2Fwww
+http%3A
+q%26a
+**http%3a
+*http%3A
+**http%3A
+http%3A%2F%2Fyoutube
+http%3A%2F%2Fblogs
+http%3A%2F%2Fblog
+**http%3A%2F%2Fwww
+s%26p
+%3FRID%3D2671
+devinmoore*
+*dc_
+*sa_
+/login.wdm%20
+/admin%20/
+/web.config::$DATA
+/Trace.axd::$DATA
+http%3A%2F%2Fcommunity
+Clinton%20Sparks%20%26%20Diddy%20-%20Dont%20Call%20It%20A%20Comeback%28RuZtY%29
+Chamillionaire%20%26%20Paul%20Wall-%20Get%20Ya%20Mind%20Correct
+DJ%20Haze%20%26%20The%20Game%20-%20New%20Blood%20Series%20Pt
+http%3A%2F%2Fradar
+q%26a2
+login%3f
+Shakira%20Oral%20Fixation%201%20%26%202
+http%3A%2F%2Fjeremiahgrossman
+http%3A%2F%2Fweblog
+http%3A%2F%2Fswik

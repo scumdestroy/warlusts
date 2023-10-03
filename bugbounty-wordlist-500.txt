@@ -1,0 +1,585 @@
+accounts
+acquire
+add
+ages
+authorize
+auth-user-info
+compliance
+create
+delete
+destroy
+discount
+discover
+displayPage
+do-search
+events
+featureflags
+genders
+general
+incoming
+invitationconfirmations
+item_list
+lookup
+new
+password-change
+password-reset
+permissions
+personaccounts
+refund
+register
+releasenotes
+retrieve
+retrieve_or_create
+search
+send-verification-email
+service
+show
+signin
+signup
+sso-settings
+suggest
+surveys
+transaction
+trends
+update
+update-metric
+users
+validate
+verify
+vote
+voucher
+debug(postMessage, 'arguments[1] == "*"')
+monitorEvents(window, 'message')
+https://github.com/PortSwigger/oauth-scan
+https://github.com/minamo7sen/burp-JS-Miner
+ams
+ams1
+api
+api-app
+apidocs
+api-reference
+app
+b
+build
+ci
+corp
+data
+dev
+docs
+dub2
+eks
+eu-west-1
+experimental
+explorer
+fra
+fra1
+git
+graphql
+iad
+jira
+kibana
+lon
+lon1
+nyc1
+oauth
+ops
+prod
+production
+q
+sfo
+sfo1
+staging
+swagger
+us-east-1
+web
+ws
+query IntrospectionQuery {
+  __schema {
+
+	queryType { name }
+	mutationType { name }
+	subscriptionType { name }
+	types {
+	  ...FullType
+	}
+	directives {
+	  name
+	  description
+	  locations
+	  args {
+		...InputValue
+	  }
+  }
+}
+fragment FullType on __Type {
+  kind
+  name
+  description
+  fields(includeDeprecated: true) {
+	name
+	description
+	args {
+	  ...InputValue
+	type {
+	  ...TypeRef
+	isDeprecated
+	deprecationReason
+  inputFields {
+	...InputValue
+  interfaces {
+	...TypeRef
+  enumValues(includeDeprecated: true) {
+  possibleTypes {
+fragment InputValue on __InputValue {
+  type { ...TypeRef }
+  defaultValue
+fragment TypeRef on __Type {
+  ofType {
+	kind
+	ofType {
+	  kind
+	  ofType {
+		kind
+		name
+		ofType {
+		  kind
+		  name
+		  ofType {
+			kind
+			name
+			ofType {
+			  kind
+			  name
+			  ofType {
+				kind
+				name
+			  }
+			}
+		  }
+		}
+X-Original-URL
+X-Rewrite-URL
+X-Forwarded-For
+X-Forwarded-Host
+1.0
+1.1
+2.0
+2.2
+2fa
+Account/Login
+admin
+airflow.cfg
+ajax
+ajax/api
+ajax/legacy_graphql
+ajax/metrics
+ajax/settings
+android_manifest.json
+API
+api/1
+api/1_0
+api/18
+api/2.0
+api/auth-ui/v2/
+api/authz
+api/bots
+api/campaigns
+api/client-data
+api/configp
+api-docs
+api/emails
+api/file
+api/invite
+api/jwt
+api/jwt/refresh
+api/mailings
+api/me
+api/me/verify
+api/mobile
+api/now
+api/oauth2
+api/open
+api/profile
+api/public
+api/public/v2
+api/rest
+api/rest/v1
+api/restv1
+apispec.json
+api/t
+api/track
+api/utilities
+api/v1
+api/v1.0
+api/v1.1
+/api/v1/config
+api/v1/namespaces
+api/v1/status/config
+api/v1/status/flags
+api/v1/targets
+api/v2
+api/v2.0
+api/v2.2
+api/v2/users/me
+api/v3
+api/v3/
+api/v3.0
+api/v4.0
+api/v5.0
+api/v6.0
+api/webhooks
+app-api
+app/auth
+app/auth/github
+AppConfig
+app/sign-in
+asset-manifest.json
+assets
+auth
+authentication
+authorization
+auth-ui
+billing
+BitKeeper
+builds
+callback
+cicd
+circleci
+cms
+cms/api
+common/oauth2/v2.0/
+conf
+conf/defaults.ini
+config
+config/credentials.yml.enc
+config/slack.yml
+conf/zoo.cfg
+core
+coupons
+credentials.yml
+custom.ini
+dashboard
+debug
+debugger
+defaults.ini
+elements
+enduserapp
+en-us/rest
+example
+examples
+fixtures3.json
+fixtures3.yml
+grafana
+grafana/api/
+grafana/grafana.ini
+grafana.ini
+graph
+graphiql
+graphs
+gw-web/api/
+habitat/plan.sh
+header
+health
+jenkins
+js
+jwks
+jwks.json
+kube_config_cluster.yml
+kustomization.yml
+legacy
+login
+loki
+main.tf
+manifest.json
+master.key
+me
+metrics
+mobile
+notifications
+oauth2/auth
+oauth2/callback
+oauth2/sign_in
+oauth2/sign_out
+oauth2/start
+oauth2/userinfo
+oauth-callback
+oauth/discovery/keys
+oauth/introspection
+oauth/userinfo
+old
+open_api
+openapi
+openid
+openid/register
+organizations
+password_resets
+password.txt
+personal
+php.ini
+ping
+platform/api/
+probe
+prometheus
+prometheus.yml
+proxy
+public
+rapidoc
+Readme.md
+redoc
+redocs
+registration
+rest
+rest/api
+rest/api/2
+rest/api/2/
+risk
+robots.txt
+route
+routes
+saml2/idp/sso
+script
+secret.yml
+server-status
+sessions
+settings
+spec3.json
+spec3.yml
+spec.json
+stage
+staged
+static
+static_configs.yml
+swagger.json
+swagger-ui
+swagger_ui
+telegraf.conf
+token
+tokens
+uploads
+user
+user/2fa
+user-info
+username.txt
+user/permissions
+user/personal_access_tokens
+user/settings
+user-state
+user/v1/profile
+user/v1/session
+uwsgi.ini
+v1
+v1/accounts
+v1/api
+v1/api/
+v1/customers
+v2
+v2/api
+v2/swagger.json
+v3
+v4
+v5
+version
+.well-known
+.well-known/enterprise-network-security
+.well-known/host-meta
+.well-known/host-meta.json
+.well-known/jwks.json
+.well-known/matrix
+.well-known/oauth-authorization-server
+.well-known/openid-configuration
+.well-known/uma2-configuration
+wp-content/debug.log
+zk_test
+//
+://
+post
+sourceMapping
+xhr
+XMLHttpRequest
+window.
+2017
+access_token
+account
+accountbalance
+accountinfo
+actions
+activities
+activity
+addressbook
+ads
+adv-account
+_ajax
+apikeys
+apikeys_new
+apisettings
+Applications
+athena
+attachments
+authz
+avatars
+billing_portal
+bookmarks
+campaigns
+cart
+category
+census
+channel
+channels
+charges
+check-reset-password
+client-data
+collect
+collections
+collector
+comments
+config-content
+configuration
+contracts
+credit_report
+customers
+detail
+direct_v2
+documentation
+documents
+domains
+droplets
+editor
+emails
+export
+favourites
+feature
+features
+feed
+file
+folder
+followers
+form
+games
+groups
+growth
+guest
+guideline
+homepage
+i18n
+images
+inboxes
+invitations
+invite
+invoice
+invoiceitems
+item
+items
+jwt
+lists
+live
+location
+mailings
+members
+memberships
+messaging
+metadata
+movies
+music
+news
+newsletters
+notes
+now
+oauth2
+onboarding
+onboarding_task_list
+page-templates
+payment
+payment_methods
+payments
+persons
+policy
+preferences
+profile
+projects
+pub
+query
+quotes
+realms
+realtime
+recommend
+refresh
+refresh_access_token
+relationships
+repair
+report
+reports
+resources
+scan
+seo
+session
+share
+shark
+shop
+shopify
+shopping
+shows
+snapshots
+stats
+status
+statuses
+subscriptions
+tasks
+templates
+timeline
+track
+tracking
+usermanagement
+utilities
+videos
+votes
+watchers
+webhook
+webhooks
+whitelist
+widget
+10250
+10257
+10259
+2181
+2379
+2380
+2888
+3000
+3306
+3888
+6443
+8086
+9090
+9092
+1.0.0.1
+8.8.4.4
+1.1.1.1
+9.9.9.11
+185.43.135.1
+8.8.8.8
+193.17.47.1
+9.9.9.9
+.build
+.bzr
+.chef
+.chef/credentials
+.config
+.config/
+.core
+._darcs
+.env
+.git
+.gitconfig
+.hg
+.hta
+.htaccess
+.htpasswd
+.htpasswd-old
+.htpasswd_test
+.kube
+.kube/config
+.secret
+.secrets
+.svn
+.terraform
+.tmp
